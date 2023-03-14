@@ -1,6 +1,6 @@
 import axios from 'axios';
 
-const URL ='http://localhost:8000';
+const URL ='https://back-end-seven-tawny.vercel.app';
 
 export const authenticateSignup = async (data) =>{
 
